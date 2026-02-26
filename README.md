@@ -2,6 +2,8 @@
 
 Il s'agit d'un jeu d'échecs simplifié et fonctionnel développé en Java, fonctionnant directement dans la console. Ce projet a été réalisé dans le cadre d'une SAE (Situation d'Apprentissage et d'Évaluation) universitaire pour mettre en pratique la programmation orientée objet. 
 
+![Capture de l'échiquier en console](images/capture_jeu.png)
+
 ## Fonctionnalités
 
 * **Tour par tour** : Le jeu permet aux joueurs blanc et noir de jouer à tour de rôle.
